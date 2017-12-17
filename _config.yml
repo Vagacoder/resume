@@ -1,6 +1,6 @@
 # Site settings
-title: "Kiki resume"
-description: "Gigi resume"
+title: "Vagacoder's resume"
+description: "A resume of Vagacoder."
 
 # Build settings
 markdown: kramdown
